@@ -1,0 +1,6 @@
+{
+  "name": "Finance Tracker",
+  "description": "Personal finance tracking app with schedules, targets, pockets, and simulations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
